@@ -2,6 +2,8 @@
 A python-based command line script that predicts the sites for non-specific binding of a certain type of ion around a biomolecule using electrostatics and geometrical factors
 
 ## Usage
+Python version 3+ is a requirement.
+
 In the command line, type:
 ```
 python PATH/TO/BION2.py -h
